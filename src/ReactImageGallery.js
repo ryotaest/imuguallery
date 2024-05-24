@@ -74,6 +74,7 @@ const ReactImageGallery = (props) => {
             width: "100%",
             height: "100vh",
             background: "black",
+            marginTop: "-110px",
             position: "fixed",
             display: "flex",
             justifyContent: "center",
