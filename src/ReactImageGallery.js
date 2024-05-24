@@ -105,6 +105,7 @@ const ReactImageGallery = (props) => {
             onClick={() => imgAction("previous-img")}
           />
           <img
+            alt="Artwork"
             src={data.img}
             style={{ width: "auto", maxWidth: "90%", maxHeight: "90%" }}
           />
