@@ -98,7 +98,7 @@ const ReactImageGallery = (props) => {
           <FontAwesomeIcon
             icon={faArrowLeft}
             style={{
-              fontSize: "clamp(20px, 5vw, 30px)",
+              fontSize: "30px",
               color: "white",
               cursor: "pointer",
               marginLeft: "20px",
