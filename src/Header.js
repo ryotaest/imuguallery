@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   const redirectToExternalSite = () => {
-    window.location.href = "https://example.com";
+    window.location.href = "https://ryota-onuma.netlify.app";
   };
 
   return (
