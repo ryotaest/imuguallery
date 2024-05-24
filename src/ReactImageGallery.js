@@ -15,7 +15,7 @@ const images = [
   "/images/painting3.png",
   "/images/painting4.png",
   "/images/painting5.png",
-  "/images/painting1.png",
+  "/images/painting6.png",
   "/images/painting7.png",
   "/images/painting8.png",
   "/images/painting9.png",
@@ -31,7 +31,7 @@ const images = [
   "/images/resing5.png",
   "/images/resin3.png",
   "/images/resin4.png",
-  "/images/resing2.png",
+  "/images/resin2.png",
 ];
 
 const ReactImageGallery = (props) => {
